@@ -1,0 +1,71 @@
+{
+    "configuracion": {
+        "personalizable": {
+            "owner": {
+                "nombreOwner": "Hiro",
+                "owner": "447309247974@s.whatsapp.net",
+                "menu_owner_response": "_*Hiro Owner*_"
+            },
+            "power": {
+                "ms_apagado": "5000"
+            },
+            "nombreBot": "𝕿𝖆𝖓𝖏𝖎𝖗𝖔",
+            "prefijo": "#",
+            "zona_horaria": "Europe/London",
+            "opciones": {
+                "cooldown": {
+                    "activado": "true",
+                    "ms_espera": "10000"
+                },
+                "comandos_DM": "false"
+            }
+        },
+        "menu": {
+            "menu_response": "_*Powered by SpiralNodes </3*_",
+            "separadorComun": "━━━━✧❗✧━━━━",
+            "separadorArriba": "◥█▀▀▀▀▀▀▀▀▀▀▀▀▀▀█◤",
+            "separadorAbajo": "◢█▄▄▄▄▄▄▄▄▄▄▄▄▄▄█◣",
+            "separadorKawaii": "!! ━―━(･ω･)━―━― !!",
+            "flecha": "➤"
+        },
+        "mensajes": {
+            "espera": "_Procesando..._ ⏳",
+            "hecho": "_Hecho!_ ✅",
+            "mensaje_largo": "_Los datos introducidos son demasiado largos! ❌_",
+            "mensaje_muy_largo": "_Estos datos son demasiado *largos* para este comando! ❌_",
+            "mensaje_corto": "_Los datos introducidos son muy cortos! ❌_",
+            "solo_grupo": "_Este comando solo puede ser usado en un *grupo*_ ❌",
+            "solo_admin": "_Necesitas ser_  _*Administrador(a)*_ _del grupo para usar este comando!_ ❌",
+            "tanjiro_admin": "_Tanjiro necesita ser_ _*Administrador*_ _para usar este comando!_ ❌",
+            "muchas_peticiones": "_Hey! Se han hecho demasiadas peticiones en poco tiempo! ❌_"
+        },
+        "stats": {
+            "creditosDefault": "1",
+            "miembrosMinimo": "15"
+        },
+        "minecraft": {
+            "activado": "true",
+            "bedrock": "false",
+            "minecraft_nombre": "QuackLand",
+            "ip_minecraft": "138.201.22.4",
+            "puerto_minecraft": "2619",
+            "minecraft_response": "_*QuackLand!*_"
+        }
+    },
+    "developer": {
+        "debug": "false",
+        "version": "6.8",
+        "mail_Organizacion": "GoldenCoders@protonmail.com",
+        "linkgroupdev": "https://chat.whatsapp.com/KBCfTsDuPthGYZ1UN3IEDV",
+        "usuario_Github": "Hiro-Beet",
+        "golden_Patreon": "patreon.com/goldencoders",
+        "nezuko_Api": "nezuko-api.herokuapp.com",
+        "organizacion": "github.com/GoldenCoders",
+        "hiroGithub": "github.com/Hiro-Beet",
+        "repositorio": "github.com/Hiro-Beet/Tanjiro-Bot",
+        "repositorio_nezuko_api": "github.com/Hiro-Beet/Nezuko-API",
+        "no_tocar": {
+            "botID": "129c6415-c095-428e-b275-af112f3b9d10"
+        }
+    }
+}
