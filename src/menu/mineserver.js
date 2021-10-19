@@ -1,1 +1,24 @@
-function _0x1eb2(_0x3d2677,_0x219d8e){var _0x2cf7e7=_0x2cf7();return _0x1eb2=function(_0x1eb28c,_0x33cdc7){_0x1eb28c=_0x1eb28c-0x1ba;var _0x21cc9d=_0x2cf7e7[_0x1eb28c];return _0x21cc9d;},_0x1eb2(_0x3d2677,_0x219d8e);}var _0x335ed9=_0x1eb2;(function(_0x1b60fa,_0x2bfda3){var _0x2f6969=_0x1eb2,_0x13afc4=_0x1b60fa();while(!![]){try{var _0x380720=-parseInt(_0x2f6969(0x1c7))/0x1+-parseInt(_0x2f6969(0x1c1))/0x2+parseInt(_0x2f6969(0x1be))/0x3*(-parseInt(_0x2f6969(0x1c3))/0x4)+parseInt(_0x2f6969(0x1c2))/0x5*(parseInt(_0x2f6969(0x1c0))/0x6)+-parseInt(_0x2f6969(0x1c5))/0x7*(-parseInt(_0x2f6969(0x1ba))/0x8)+-parseInt(_0x2f6969(0x1ca))/0x9+parseInt(_0x2f6969(0x1bf))/0xa*(parseInt(_0x2f6969(0x1bb))/0xb);if(_0x380720===_0x2bfda3)break;else _0x13afc4['push'](_0x13afc4['shift']());}catch(_0x1cd9a8){_0x13afc4['push'](_0x13afc4['shift']());}}}(_0x2cf7,0x804e7));function _0x2cf7(){var _0xb33418=['3aaYcRg','4009650vauwOp','165294MqIGdw','1839896kGhxdD','35WwCEcX','1277916LSTlgN','\x0a╔\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<<\x20','13398sKFdre','mineplayers_\x0a║\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a╠','137919XOVfzp','\x20>>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20╗\x0a║\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20║\x0a╠>\x20\x20\x20\x20\x20\x20_*👮\x20\x20M͓̽i͓̽n͓̽e͓̽S͓̽e͓̽r͓̽v͓̽e͓̽r͓̽\x20\x20🍩*_\x20\x20\x20\x20\x20\x20<╣\x0a║\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a╠','mine_server','4031415UfWHHO','3992BBeTQS','33GYYMAH','mineicon_\x0a║\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a╠','\x20>>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a'];_0x2cf7=function(){return _0xb33418;};return _0x2cf7();}var mine_server=(_0x35b9c6,_0x3e1687,_0x1bf449,_0x560da5,_0x3838bb,_0x33a75d,_0x415956,_0x219fb6,_0x5e244c,_0x2113dc,_0xc1f5ac,_0x28dedd,_0x5bec25,_0x4f8f01,_0x3c829a)=>{var _0x1157cb=_0x1eb2;return'\x0a'+_0x219fb6+_0x1157cb(0x1c4)+_0x35b9c6+_0x1157cb(0x1c8)+_0xc1f5ac+'\x20_'+_0x560da5+'minemotd_\x0a║\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a╠'+_0xc1f5ac+'\x20_'+_0x560da5+'mineping_\x0a║\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a╠'+_0xc1f5ac+'\x20_'+_0x560da5+_0x1157cb(0x1bc)+_0xc1f5ac+'\x20_'+_0x560da5+_0x1157cb(0x1c6)+_0xc1f5ac+'\x20_'+_0x560da5+'mineversion_\x0a║\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a╠>\x20_Powered\x20by\x20*SpiralNodes*_\x20</3\x0a║\x0a╚\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<<\x20'+_0x35b9c6+_0x1157cb(0x1bd)+_0x2113dc;};exports[_0x335ed9(0x1c9)]=mine_server;
+var mine_server = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, miembrosMinimo, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha, repositorio, hirogithub, puerto_minecraft, ip_minecraft) => {
+    return `
+${separadorArriba}
+╔             << ${nombreBot} >>                ╗
+║                                                   ║
+╠>      _*👮  M͓̽i͓̽n͓̽e͓̽S͓̽e͓̽r͓̽v͓̽e͓̽r͓̽  🍩*_      <╣
+║                                                     
+╠${flecha} _${prefijo}minemotd_
+║                                                     
+╠${flecha} _${prefijo}mineping_
+║                                                     
+╠${flecha} _${prefijo}mineicon_
+║                                                     
+╠${flecha} _${prefijo}mineplayers_
+║                                                     
+╠${flecha} _${prefijo}mineversion_
+║                                                     
+╠> _Powered by *SpiralNodes*_ </3
+║
+╚             << ${nombreBot} >>               
+${separadorAbajo}`
+}
+
+exports.mine_server = mine_server
