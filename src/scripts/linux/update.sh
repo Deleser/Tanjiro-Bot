@@ -62,6 +62,8 @@ echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Eliminando archivos completamente..."
 
     cd ${DIRECTORIO_SPIRALNODES}
 
+    rm -rf .config &> /dev/null
+    rm -rf .cache &> /dev/null
     rm -rf src &> /dev/null
     rm -rf config.json &> /dev/null
     rm -rf node_modules &> /dev/null
@@ -121,7 +123,5 @@ echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Instalando nueva actualizacion..."
                     echo -e "\e[92m* \e[39m[\e[94mINFO\e[39m] Hecho! Por favor, solo inicia tu server como lo harias normalmente. \e[95mSpiralNodes\e[39m!"
 
     fi
-
-    sleep 1.25
 
 exit
