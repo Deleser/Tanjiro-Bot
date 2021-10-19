@@ -1,4 +1,4 @@
-var menu_staff = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, miembrosMinimo, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha, repositorio, hirogithub, puerto_minecraft, ip_minecraft) => {
+var menu_staff = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha, repositorio, hirogithub, puerto_minecraft, ip_minecraft) => {
     return `
 ╔             << ${nombreBot} >>                 ╗
 ║                                                    ║
@@ -112,7 +112,7 @@ var menu_staff = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, miemb
 ${separadorAbajo}`
 }
 
-var menu_staff_premium = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, miembrosMinimo, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha, repositorio, hirogithub, puerto_minecraft, ip_minecraft) => {
+var menu_staff_premium = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha, repositorio, hirogithub, puerto_minecraft, ip_minecraft) => {
     return `
 ╔             << ${nombreBot} >>                 ╗
 ║                                                    ║

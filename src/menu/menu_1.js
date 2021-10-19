@@ -1,4 +1,4 @@
-var menu_1 = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, miembrosMinimo, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
+var menu_1 = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
     return `
 ${separadorArriba}
 ╔             << ${nombreBot} >>                ╗

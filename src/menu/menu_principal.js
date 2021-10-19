@@ -1,4 +1,4 @@
-var menu_principal = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, miembrosMinimo, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
+var menu_principal = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
     return `
 ${separadorArriba}
 ╔             << ${nombreBot} >>               ╗
@@ -15,7 +15,7 @@ ${separadorArriba}
 ${separadorAbajo}`
 }
 
-var smenu_principal = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, miembrosMinimo, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
+var smenu_principal = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
     return ` 
 ${separadorArriba}
 ╔             << ${nombreBot} >>               ╗
@@ -35,7 +35,7 @@ ${separadorArriba}
 ${separadorAbajo}`
 }
 
-var omenu_principal = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, miembrosMinimo, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
+var omenu_principal = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
     return ` 
 ${separadorArriba}
 ╔             << ${nombreBot} >>               ╗
@@ -56,7 +56,7 @@ ${separadorArriba}
 ${separadorAbajo}`
 }
 
-var pmenu_principal = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, miembrosMinimo, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
+var pmenu_principal = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
     return ` 
 ${separadorArriba}
 ╔             << ${nombreBot} >>               ╗
@@ -72,7 +72,7 @@ ${separadorArriba}
 ${separadorAbajo}`
 }
 
-var p2menu_principal = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, miembrosMinimo, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
+var p2menu_principal = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, nezuko_api, separadorArriba, separadorKawaii, separadorAbajo, flecha) => {
     return ` 
 ${separadorArriba}
 ╔             << ${nombreBot} >>               ╗
