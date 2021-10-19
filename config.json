@@ -40,8 +40,7 @@
             "muchas_peticiones": "_Hey! Se han hecho demasiadas peticiones en poco tiempo! ❌_"
         },
         "stats": {
-            "creditosDefault": "1",
-            "miembrosMinimo": "15"
+            "creditosDefault": "1"
         },
         "minecraft": {
             "activado": "true",
