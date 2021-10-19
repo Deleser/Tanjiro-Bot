@@ -54,7 +54,6 @@ echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Creando carpeta de backup..."
 
 echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Guardando archivos importantes..."
 
-    mv config.json backup &> /dev/null
     mv db backup &> /dev/null
     
     sleep 1.25
@@ -64,6 +63,7 @@ echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Eliminando archivos completamente..."
     cd ${DIRECTORIO_SPIRALNODES}
 
     rm -rf src &> /dev/null
+    rm -rf config.json &> /dev/null
     rm -rf node_modules &> /dev/null
     rm -rf Tanjiro-MD &> /dev/null
     rm -rf .gitignore &> /dev/null
@@ -106,20 +106,16 @@ echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Instalando nueva actualizacion..."
 
             echo -e "\e[92m* \e[39m[\e[94mINFO\e[39m] \e[95mSpiralNodes\e[39m!"
 
-                cd ${DIRECTORIO_SPIRALNODES}
-
-                rm -rf Tanjiro-Bot &> /dev/null
-
                 cd Tanjiro-Bot &> /dev/null
-                mv db /home/container &> /dev/null
                 mv src /home/container &> /dev/null
                 mv .gitignore /home/container &> /dev/null
                 mv config.json /home/container &> /dev/null
                 mv index.js /home/container &> /dev/null
                 mv main.js /home/container &> /dev/null
-                mv package-lock.json /home/container &> /dev/null
+                mv package.json /home/container &> /dev/null
                 mv README.md /home/container &> /dev/null
                 mv LICENSE /home/container &> /dev/null
+                cd ${DIRECTORIO_SPIRALNODES}
                 rm -rf Tanjiro-Bot &> /dev/null
 
                     echo -e "\e[92m* \e[39m[\e[94mINFO\e[39m] Hecho! Por favor, solo inicia tu server como lo harias normalmente. \e[95mSpiralNodes\e[39m!"
