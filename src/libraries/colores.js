@@ -1,15 +1,1 @@
-/*################## Archivo de colores para el archivo principal (Main) 🚀 ##################*/
-
-/*################## 🍣 Importacion de librerias 🍣 ##################*/
-
-const chalk = require('chalk') // Importando chalk 🌚
-
-/*################## 🌴 Inicio del Json 🌴 ##################*/
-
-const color = (text, color) => {
-    return !color ? chalk.green(text) : chalk.keyword(color)(text)
-}
-
-/*################## 🛠 Exportando modulos 🛠 ##################*/
-
-module.exports = { color }
+const _0x14da53=_0x3275;function _0x3275(_0x466bb6,_0x39bc37){const _0xb554e7=_0xb554();return _0x3275=function(_0x327531,_0x1c2761){_0x327531=_0x327531-0x1c0;let _0x3246c0=_0xb554e7[_0x327531];return _0x3246c0;},_0x3275(_0x466bb6,_0x39bc37);}(function(_0x2a5331,_0x2d764c){const _0x179e97=_0x3275,_0x20fa78=_0x2a5331();while(!![]){try{const _0x174a50=-parseInt(_0x179e97(0x1c8))/0x1+-parseInt(_0x179e97(0x1c3))/0x2+-parseInt(_0x179e97(0x1c7))/0x3*(parseInt(_0x179e97(0x1cb))/0x4)+-parseInt(_0x179e97(0x1ce))/0x5*(-parseInt(_0x179e97(0x1c4))/0x6)+parseInt(_0x179e97(0x1c6))/0x7+-parseInt(_0x179e97(0x1c9))/0x8*(parseInt(_0x179e97(0x1ca))/0x9)+parseInt(_0x179e97(0x1c5))/0xa*(parseInt(_0x179e97(0x1cd))/0xb);if(_0x174a50===_0x2d764c)break;else _0x20fa78['push'](_0x20fa78['shift']());}catch(_0x1d5ac2){_0x20fa78['push'](_0x20fa78['shift']());}}}(_0xb554,0x532a2));function _0xb554(){const _0xe64763=['2989265TjbKti','exports','green','chalk','89036ruyXiH','6MfXpud','10UXbyQN','2809310qvMcDD','1923381NARBlh','207921czhaAY','8soAfZx','427077nimyAR','4PMPrpx','keyword','3107258TXRklk'];_0xb554=function(){return _0xe64763;};return _0xb554();}const chalk=require(_0x14da53(0x1c2)),color=(_0x7683f6,_0x139f99)=>{const _0x3685a8=_0x14da53;return!_0x139f99?chalk[_0x3685a8(0x1c1)](_0x7683f6):chalk[_0x3685a8(0x1cc)](_0x139f99)(_0x7683f6);};module[_0x14da53(0x1c0)]={'color':color};
