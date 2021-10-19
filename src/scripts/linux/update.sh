@@ -7,58 +7,9 @@ DIRECTORIO_SPIRALNODES='/home/container'
 
 ####################### ✨ Inicio ✨ #######################
 
-    sleep 0.25
-
-        clear
-
-    sleep 1.5
-
-echo -e "\e[93m     _______          \e[96m_ _            "
-    sleep 0.25
-echo -e "\e[93m    |__   __|        \e[96m(_|_)           "
-    sleep 0.25
-echo -e "\e[93m       | | __ _ _ __  \e[96m_ _ _ __ ___   "
-    sleep 0.25
-echo -e "\e[93m       | |/ _  | '_  \e[96m| | | '__/ _ \  "
-    sleep 0.25
-echo -e "\e[93m       | | (_| | | | \e[96m| | | | | (_) | "
-    sleep 0.25
-echo -e "\e[93m       |_|\__,_|_| |_\e[96m| |_|_|  \___/  "
-    sleep 0.25
-echo -e "\e[93m                    \e[96m_/ | "          
-    sleep 0.25
-echo -e "\e[93m                   \e[96m|__/  "
-    sleep 0.25
-
-    echo -e ""
-
-    sleep 1.2
-
-echo -e "\e[92m* \e[39m[\e[94mINFO\e[39m] Iniciando actualizacion de Tanjiro!"
-
-    sleep 2.5
-
     clear
-
-    sleep 1.2
-
-echo -e "\e[92m* \e[39m[\e[94mINFO\e[39m] Limpiando archivos locales..."
-
-    sleep 1.25
-
-echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Creando carpeta de backup..."
-
     mdkir backup &> /dev/null
-    
-    sleep 1.25
-
-echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Guardando archivos importantes..."
-
     mv db backup &> /dev/null
-    
-    sleep 1.25
-
-echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Eliminando archivos completamente..."
 
     cd ${DIRECTORIO_SPIRALNODES}
 
@@ -79,15 +30,9 @@ echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Eliminando archivos completamente..."
 
     sleep 1.25
 
-echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Instalando nueva actualizacion..."
-
     git clone https://github.com/Hiro-Beet/Tanjiro-Bot.git &> /dev/null
 
     if [ $PWD != $DIRECTORIO_SPIRALNODES ]; then
-
-        sleep 1.5
-
-            echo -e "\e[92m* \e[39m[\e[94mINFO\e[39m] Hosteo local detectado! [\e[96mTERMUX\e[39m]"
 
                 cd Tanjiro-Bot &> /dev/null
                 rm -rf db &> /dev/null
@@ -104,10 +49,6 @@ echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Instalando nueva actualizacion..."
         exit
     else 
 
-        sleep 1.5
-
-            echo -e "\e[92m* \e[39m[\e[94mINFO\e[39m] \e[95mSpiralNodes\e[39m!"
-
                 cd Tanjiro-Bot &> /dev/null
                 mv src /home/container &> /dev/null
                 mv .gitignore /home/container &> /dev/null
@@ -120,8 +61,4 @@ echo -e "\e[92m* \e[39m[\e[93mDEBUG\e[39m] Instalando nueva actualizacion..."
                 cd ${DIRECTORIO_SPIRALNODES}
                 rm -rf Tanjiro-Bot &> /dev/null
 
-                    echo -e "\e[92m* \e[39m[\e[94mINFO\e[39m] Hecho! Por favor, solo inicia tu server como lo harias normalmente. \e[95mSpiralNodes\e[39m!"
-
     fi
-
-exit
