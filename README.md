@@ -8,6 +8,6 @@
 
 | Version 🦊 | 
 |------------ |
-| V3.3 |
+| V6.9 |
 
 - Dale una estrellita a este repositorio y comparte para que yo pueda ser feliz! 🎉
