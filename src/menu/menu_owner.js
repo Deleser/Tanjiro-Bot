@@ -28,10 +28,16 @@ ${separadorArriba}
 ╠${flecha} _${prefijo}unblock + [Usuario]_
 ║                   
 ╠${flecha} _${prefijo}newgroup + [Nombre]_
+║                   
+╠${flecha} _${prefijo}promoteall_
+║                   
+╠${flecha} _${prefijo}demoteall_
 ║                                 
 ╠> << Tools Importantes >>
 ║                   
 ╠${flecha} _${prefijo}update_
+║                   
+╠${flecha} _${prefijo}terminal + [Comando]_
 ║                                                     
 ╠> _Powered by *SpiralNodes*_ </3                   
 ║                                                   

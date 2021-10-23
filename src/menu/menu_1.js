@@ -37,6 +37,8 @@ ${separadorArriba}
 ║                                                     
 ╠${flecha} _${prefijo}info_
 ║                                                     
+╠${flecha} _${prefijo}stats_
+║                                                     
 ╠${flecha} _${prefijo}setup_
 ║
 ╠>   _*🍟 匚𝓗乇ςᛕ 🔥*_
@@ -46,6 +48,8 @@ ${separadorArriba}
 ╠${flecha} _${prefijo}versioncheck_
 ║                                                     
 ╠${flecha} _${prefijo}prefijocheck_
+║                                                     
+╠${flecha} _${prefijo}picturecheck_
 ║
 ╠>   _*♛ ⓇⓔƤⓞⓇ𝕋𝐞ร  🎀*_
 ║                                                     

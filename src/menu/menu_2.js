@@ -62,6 +62,8 @@ ${separadorArriba}
 ╠${flecha} _${prefijo}dog3_
 ║                                         
 ╠${flecha} _${prefijo}duck_
+║                                         
+╠${flecha} _${prefijo}httpduck + [http status]_
 ║                                                     
 ╠> _Powered by *SpiralNodes*_ </3
 ║                                                   

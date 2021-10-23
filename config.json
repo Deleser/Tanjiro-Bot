@@ -17,6 +17,7 @@
                     "activado": "true",
                     "ms_espera": "10000"
                 },
+                "llamadas": "false",
                 "comandos_DM": "false"
             }
         },
@@ -53,7 +54,7 @@
     },
     "developer": {
         "debug": "false",
-        "version": "6.9",
+        "version": "7.0",
         "mail_Organizacion": "GoldenCoders@protonmail.com",
         "linkgroupdev": "https://chat.whatsapp.com/KBCfTsDuPthGYZ1UN3IEDV",
         "usuario_Github": "Hiro-Beet",
@@ -64,7 +65,7 @@
         "repositorio": "github.com/Hiro-Beet/Tanjiro-Bot",
         "repositorio_nezuko_api": "github.com/Hiro-Beet/Nezuko-API",
         "no_tocar": {
-            "botID": "--ID--"
+            "botID": "---ID---"
         }
     }
 }
