@@ -10,4 +10,5 @@
 |------------ |
 | V7.0 |
 
+- 100% español! ✨
 - Dale una estrellita a este repositorio y comparte para que yo pueda ser feliz! 🎉
