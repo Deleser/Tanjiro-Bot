@@ -7,7 +7,7 @@
   </p>
   
   <p align="center">
-    <a href="https://github.com/Hiro-Beet/Tanjiro-Bot"><img title=Tanjiro-Bot" src="https://img.shields.io/badge/Hiro-Beet♥️-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+    <a href="https://github.com/Hiro-Beet/Tanjiro-Bot"><img title=Tanjiro-Bot" src="https://img.shields.io/badge/Hiro-Beet♥️-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge">     </a>
     <a href="https://github.com/Hiro-Beet"><img title="Github" src="https://img.shields.io/badge/hiro-beet-brightgreen?style=for-the-badge&logo=github"></a>
   </p>
       
