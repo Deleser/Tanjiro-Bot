@@ -44,7 +44,9 @@ DIRECTORIO_SPIRALNODES='/home/container'
                 rm -rf Tanjiro-Bot &> /dev/null
                 mv Tanjiro-Bot /data/data/com.termux/files/home &> /dev/null
                 cd Tanjiro-Bot &> /dev/null
-                bash setup.sh &> /dev/null
+                npm i
+                node index.js
+                # bash setup.sh &> /dev/null
 
         exit
     else 
