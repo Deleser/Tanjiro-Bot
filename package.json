@@ -23,7 +23,8 @@
         "performance-now": "^2.1.0",
         "spinnies": "^0.5.1",
         "rimraf": "^3.0.2",
-        "fluent-ffmpeg": "2.1.2"
+        "fluent-ffmpeg": "2.1.2",
+        "yt-search": "2.10.2"
     },
     "repository": {
         "type": "git",
