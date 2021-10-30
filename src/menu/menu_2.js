@@ -64,6 +64,10 @@ ${separadorArriba}
 ╠${flecha} _${prefijo}duck_
 ║                                         
 ╠${flecha} _${prefijo}httpduck + [http status]_
+║ 
+╠>       _*🍧 𝓂ⓤᔕⒾ¢α 💝*_
+║                                         
+╠${flecha} _${prefijo}play + [Cancion]_
 ║                                                     
 ╠> _Powered by *SpiralNodes*_ </3
 ║                                                   

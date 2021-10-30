@@ -4,14 +4,26 @@
 ####################### 💡 Variables/Constantes 💡 #######################
 
 DIRECTORIO_SPIRALNODES='/home/container'
+DIRECTORIO_TERMUX='/data/data/com.termux/files'
 
 ####################### ✨ Inicio ✨ #######################
 
     clear
+
+    if [ $PWD != $DIRECTORIO_SPIRALNODES ]; then
+
+    cd /data/data/com.termux/files/home/Tanjiro-Bot &> /dev/null
+
+    mv db /data/data/com.termux/files/home &> /dev/null
+
+    cd ${DIRECTORIO_SPIRALNODES} &> /dev/null
+
+    else
+
     mdkir backup &> /dev/null
     mv db backup &> /dev/null
 
-    cd ${DIRECTORIO_SPIRALNODES}
+    fi
 
     rm -rf .config &> /dev/null
     rm -rf .cache &> /dev/null
@@ -28,27 +40,29 @@ DIRECTORIO_SPIRALNODES='/home/container'
     rm -rf README.md &> /dev/null
     rm -rf LICENSE &> /dev/null
 
-    sleep 1.25
+    sleep 0.5
 
     git clone https://github.com/Hiro-Beet/Tanjiro-Bot.git &> /dev/null
 
     if [ $PWD != $DIRECTORIO_SPIRALNODES ]; then
 
+                cd /data/data/com.termux/files/home &> /dev/null
+
+                rm -rf Tanjiro-Bot &> /dev/null
+                git clone https://github.com/Hiro-Beet/Tanjiro-Bot.git &> /dev/null
                 cd Tanjiro-Bot &> /dev/null
                 rm -rf db &> /dev/null
-                cd .. &> /dev/null
-                mv Tanjiro-Bot backup &> /dev/null
-                cd backup &> /dev/null
-                mv db Tanjiro-Bot &> /dev/null
                 cd /data/data/com.termux/files/home &> /dev/null
-                rm -rf Tanjiro-Bot &> /dev/null
-                mv Tanjiro-Bot /data/data/com.termux/files/home &> /dev/null
+                mv db /data/data/com.termux/files/home/Tanjiro-Bot
+                cd /data/data/com.termux/files/home &> /dev/null
+                rm -rf package.json &> /dev/null
                 cd Tanjiro-Bot &> /dev/null
-                npm i
-                node index.js
+                npm i &> /dev/null
+                node index.js &> /dev/null
                 # bash setup.sh &> /dev/null
 
         exit
+
     else 
 
                 cd Tanjiro-Bot &> /dev/null
@@ -60,7 +74,7 @@ DIRECTORIO_SPIRALNODES='/home/container'
                 mv package.json /home/container &> /dev/null
                 mv README.md /home/container &> /dev/null
                 mv LICENSE /home/container &> /dev/null
-                cd ${DIRECTORIO_SPIRALNODES}
+                cd ${DIRECTORIO_SPIRALNODES} &> /dev/null
                 rm -rf Tanjiro-Bot &> /dev/null
 
     fi

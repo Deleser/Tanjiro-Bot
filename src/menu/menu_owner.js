@@ -21,6 +21,10 @@ ${separadorArriba}
 ║                   
 ╠${flecha} _${prefijo}power off_
 ║                                 
+╠> << Anuncios >>
+║                   
+╠${flecha} _${prefijo}anunciar + [Anuncio]_
+║                                 
 ╠> << Tools >>
 ║                   
 ╠${flecha} _${prefijo}block + [Usuario]_
