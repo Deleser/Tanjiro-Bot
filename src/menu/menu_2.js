@@ -64,6 +64,8 @@ ${separadorArriba}
 ╠${flecha} _${prefijo}duck_
 ║                                         
 ╠${flecha} _${prefijo}httpduck + [http status]_
+║                                         
+╠${flecha} _${prefijo}fox_
 ║ 
 ╠>       _*🍧 𝓂ⓤᔕⒾ¢α 💝*_
 ║                                         

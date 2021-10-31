@@ -28,6 +28,16 @@ var menu_staff = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, nezuk
 ║
 ╠${flecha} _${prefijo}bug_
 ║
+╠> << AntiSpam >>
+║
+╠${flecha} _${prefijo}allantispam on (👑)_
+║
+╠${flecha} _${prefijo}allantispam off (👑)_
+║
+╠${flecha} _${prefijo}socialantispam on (👑)_
+║
+╠${flecha} _${prefijo}socialantispam off (👑)_
+║
 ╠> << Avisos >>
 ║
 ╠${flecha} _${prefijo}anuncio + [Anuncio] (👑)_
@@ -141,6 +151,16 @@ var menu_staff_premium = (nombreBot, owner, nombreOwner, prefijo, creditosDefaul
 ╠> << Bug? >>
 ║
 ╠${flecha} _${prefijo}bug_
+║
+╠> << AntiSpam >>
+║
+╠${flecha} _${prefijo}allantispam on_
+║
+╠${flecha} _${prefijo}allantispam off_
+║
+╠${flecha} _${prefijo}socialantispam on_
+║
+╠${flecha} _${prefijo}socialantispam off_
 ║
 ╠> << Avisos >>
 ║

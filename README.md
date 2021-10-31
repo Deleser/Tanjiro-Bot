@@ -17,7 +17,7 @@
 
   | Version 🦊 | 
   |------------ |
-  | V7.2 |
+  | V7.4 |
 
 - 100% español! ✨
 - Dale una estrellita a este repositorio y comparte para que yo pueda ser feliz! 🎉
