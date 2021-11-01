@@ -18,7 +18,8 @@
                     "ms_espera": "10000"
                 },
                 "llamadas": "false",
-                "comandos_DM": "false"
+                "comandos_DM": "false",
+                "tipoBuscador": "Safari"
             }
         },
         "menu": {
@@ -54,7 +55,7 @@
     },
     "developer": {
         "debug": "true",
-        "version": "7.4",
+        "version": "7.4.1",
         "mail_Organizacion": "GoldenCoders@protonmail.com",
         "linkgroupdev": "https://chat.whatsapp.com/KBCfTsDuPthGYZ1UN3IEDV",
         "usuario_Github": "Hiro-Beet",
@@ -63,9 +64,6 @@
         "organizacion": "github.com/GoldenCoders",
         "hiroGithub": "github.com/Hiro-Beet",
         "repositorio": "github.com/Hiro-Beet/Tanjiro-Bot",
-        "repositorio_nezuko_api": "github.com/Hiro-Beet/Nezuko-API",
-        "no_tocar": {
-            "botID": "---ID---"
-        }
+        "repositorio_nezuko_api": "github.com/Hiro-Beet/Nezuko-API"
     }
 }
