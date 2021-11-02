@@ -19,22 +19,22 @@ DIRECTORIO_TERMUX='/data/data/com.termux/files'
 
     sleep 1
 
-    echo -e "\e[\e[93m-39m[\e[39m] \e[95mAndroid\e[39m detectado, parcheando el error..."
+    echo -e "[-\e[39m] \e[95mAndroid\e[39m detectado, parcheando el error..."
 
     # cd /data/data/com.termux/files/home/Tanjiro-Bot/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js &> /dev/null
     sed -i 's/2123/3234/g' /data/data/com.termux/files/home/Tanjiro-Bot/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js &> /dev/null # Parcheado! ♥️
 
-    echo -e "\e[\e[93m-39m[\e[39m] \e[92mSe ha parcheado el error!"
+    echo -e "[-\e[39m] \e[92mSe ha parcheado el error!"
 
     else
     
     sleep 1
 
-    echo -e "\e[\e[93m-39m[\e[39m] \e[95mAndroid\e[39m detectado, parcheando el error..."
+    echo -e "[-\e[39m] \e[95mSpiralNodes\e[39m detectado, parcheando el error..."
 
     # /home/container/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js &> /dev/null
     sed -i 's/2123/3234/g' /home/container/node_modules/@adiwajshing/baileys/lib/WAConnection/0.Base.js &> /dev/null &> /dev/null # Parcheado! ♥️
 
-    echo -e "\e[\e[93m-39m[\e[39m] \e[92mSe ha parcheado el error!"
+    echo -e "[-\e[39m] \e[92mSe ha parcheado el error!"
 
     fi
