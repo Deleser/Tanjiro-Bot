@@ -7,7 +7,8 @@
                 "menu_owner_response": "_*Hiro Owner*_"
             },
             "power": {
-                "ms_apagado": "5000"
+                "ms_apagado": "5000",
+                "ms_reinicio": "2000"
             },
             "nombreBot": "𝕿𝖆𝖓𝖏𝖎𝖗𝖔",
             "prefijo": "#",
@@ -45,17 +46,17 @@
             "creditosDefault": "1"
         },
         "minecraft": {
-            "activado": "false",
+            "activado": "true",
             "bedrock": "false",
             "minecraft_nombre": "QuackLand",
-            "ip_minecraft": "138.201.22.4",
-            "puerto_minecraft": "2619",
+            "ip_minecraft": "104.196.184.60",
+            "puerto_minecraft": "22300",
             "minecraft_response": "_*QuackLand!*_"
         }
     },
     "developer": {
         "debug": "true",
-        "version": "7.4.1",
+        "version": "7.5",
         "mail_Organizacion": "GoldenCoders@protonmail.com",
         "linkgroupdev": "https://chat.whatsapp.com/KBCfTsDuPthGYZ1UN3IEDV",
         "usuario_Github": "Hiro-Beet",
