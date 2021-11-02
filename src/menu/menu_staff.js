@@ -100,15 +100,21 @@ var menu_staff = (nombreBot, owner, nombreOwner, prefijo, creditosDefault, nezuk
 ║
 ╠${flecha} _${prefijo}tagall7 (👑)_
 ║
-╠> << Kick >>
+╠> << Kick/Ban >>
 ║
 ╠${flecha} _${prefijo}kick + [@Usuario]_
+║
+╠${flecha} _${prefijo}ban + [Mensaje] (👑)_
 ║
 ╠> << Revoke/Link >>
 ║
 ╠${flecha} _${prefijo}revoke (👑)_
 ║
 ╠${flecha} _${prefijo}linkgroup (👑)_
+║
+╠> << Join >>
+║
+╠${flecha} _${prefijo}join + [Enlace] (👑)_
 ║
 ╠> << Etc >>
 ║
@@ -224,15 +230,21 @@ var menu_staff_premium = (nombreBot, owner, nombreOwner, prefijo, creditosDefaul
 ║
 ╠${flecha} _${prefijo}tagall7_
 ║
-╠> << Kick >>
+╠> << Kick/Ban >>
 ║
 ╠${flecha} _${prefijo}kick + [@Usuario]_
+║
+╠${flecha} _${prefijo}ban + [Mensaje]_
 ║
 ╠> << Revoke/Link >>
 ║
 ╠${flecha} _${prefijo}revoke_
 ║
 ╠${flecha} _${prefijo}linkgroup_
+║
+╠> << Join >>
+║
+╠${flecha} _${prefijo}join + [Enlace]_
 ║
 ╠> << Etc >>
 ║

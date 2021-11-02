@@ -15,6 +15,8 @@ ${separadorArriba}
 ║                                                     
 ╠${flecha} _${prefijo}mineversion_
 ║                                                     
+╠> _Java Server_
+║                                                     
 ╠> _Powered by *SpiralNodes*_ </3
 ║
 ╚             << ${nombreBot} >>               

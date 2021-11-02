@@ -40,6 +40,8 @@ ${separadorArriba}
 ╠${flecha} _${prefijo}stats_
 ║                                                     
 ╠${flecha} _${prefijo}setup_
+║                                                     
+╠${flecha} _${prefijo}perfil_
 ║
 ╠>   _*🍟 匚𝓗乇ςᛕ 🔥*_
 ║                                                     

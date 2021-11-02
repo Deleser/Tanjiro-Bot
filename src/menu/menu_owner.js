@@ -20,6 +20,8 @@ ${separadorArriba}
 ╠> << Power >>
 ║                   
 ╠${flecha} _${prefijo}power off_
+║                   
+╠${flecha} _${prefijo}power restart_
 ║                                 
 ╠> << Anuncios >>
 ║                   
